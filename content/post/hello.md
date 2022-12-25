@@ -6,14 +6,13 @@ description: '"Hello, WangYingliuba" Today is Christmas!Marry Chrismas!!!'
 title: Hello WYLN
 ---
 
-> "Hello, friend?" That's lame.
-> Maybe I should give you a name...
-> But that's a slippery slope.
-> You're only in my head.
-> We have to remember that...
-> Shit.
-> It's actually happened.
-> I'm talking to an imaginary person.
+> "Hello, wyln" Marry Chrismas!!!
+> Maybe I should give you a surprise.
+> But I don't know how to express it.
+> It was a pleasure to see you for the first time.
+> We would to remember that...
+> This is a website that belongs to you!
+> It is also the first blessing.
 >
 > **— Mr.Wang**
 
