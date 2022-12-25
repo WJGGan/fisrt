@@ -28,9 +28,9 @@ languages:
     params:
       logo:
         logoHomeLink: /
-        logoText: hello friend
+        logoText: hello wyln
     readMore: Read more
     readOtherPosts: Read other posts
     subtitle: A simple theme for Hugo
-    title: Hello Friend
+    title: Hello WYLN
     writtenBy: Written by
