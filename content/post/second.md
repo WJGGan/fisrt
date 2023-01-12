@@ -1,9 +1,9 @@
 ---
 author: WangJiagan
-cover: img/christmas.webp
+cover: img/meta.jpeg
 date: "2023-1-11"
-description: '"Hello, WangYingliunaaa" Today is Christmas!Marry Chrismas!!!'
-title: Hello WYLN
+description: '"META Second Meeting" '
+title: Second Meeting
 ---
 
 > "Hello, wyln" Marry Chrismas!!!
