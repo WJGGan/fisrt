@@ -20,6 +20,5 @@ title: Second Meeting
 >![meta2](https://img.cnmo.com/1873_600x1000/1872931.jpg)
 >元宇宙你应该看过《头号玩家》 我所想象的元宇宙就是这样的虚拟世界 
 >与你在一起玩的时候我也有一种置身于虚拟世界的感觉 总会担心眼前的美好会随风而逝
->
->
+>![ready player one](https://i1.wp.com/teaser-trailer.com/wp-content/uploads/Ready-Player-One-The-Key.jpg?ssl=1)
 > **— Mr.Wang**
