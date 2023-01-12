@@ -17,8 +17,7 @@ title: Second Meeting
 > 如果再吃上一碗热乎乎的米线就再好不过了
 
 >以前看到过一篇文章是说关于Meta这个词的解释 正好Facebook也改名叫Meta 来源于Metaverse(元宇宙)
->![meta](static/img/meta.png)
->![meta2]([https://cn.bing.com/images/search?view=detailV2&ccid=cqmz6B3K&id=9A0178674C264412E436E797CF93A7341EB11123&thid=OIP.cqmz6B3KUZKeuLUucUBGZgHaEy&mediaurl=https%3A%2F%2Fimg.cnmo.com%2F1873_600x1000%2F1872931.jpg&exph=388&expw=600&q=meta+&simid=608018935585329779&form=IRPRST&ck=05E029E153F8D3396AFC409B6EEF11CB&selectedindex=29&ajaxhist=0&ajaxserp=0&vt=0&sim=11](https://th.bing.com/th/id/R.72a9b3e81dca51929eb8b52e71404666?rik=IxGxHjSnk8%2bX5w&pid=ImgRaw&r=0))
+>![meta2](https://img.cnmo.com/1873_600x1000/1872931.jpg)
 >元宇宙你应该看过《头号玩家》 我所想象的元宇宙就是这样的虚拟世界 
 >与你在一起玩的时候我也有一种置身于虚拟世界的感觉 总会担心眼前的美好会随风而逝
 >
