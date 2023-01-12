@@ -6,12 +6,8 @@ description: '"META Second Meeting" '
 title: Second Meeting
 ---
 
-> "Hello, wyln" Marry Chrismas!!!
-> Maybe I should give you a surprise.
-> But I don't know how to express it.
-> It was a pleasure to see you for the first time.
-> We would to remember that...
-> This is a website that belongs to you!
-> It is also the first blessing.
+> 英语不好就不装高手了哈哈哈哈哈
+> 第二次见面 也是在一起喝酒（十足的酒友drinkfriend）
+> 酒吧音乐声音很大 心脏都在一起震动 没咋去过这种地方还有些不习惯呢
 >
 > **— Mr.Wang**
